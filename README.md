@@ -13,7 +13,7 @@ git clone https://github.com/wwwestin/Farkle.git
 ```
 #### **Open VS Code and install Live Server VS Code Extension:**
 
-ctrl+P then
+ctrl+P THEN
 ```
 ext install ritwickdey.liveserver.
 ```
